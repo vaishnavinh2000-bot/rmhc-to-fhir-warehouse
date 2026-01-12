@@ -1,0 +1,10 @@
+Benefits of Docker:
+- Eliminates the need for local Java and database installation
+- Ensures a consistent runtime environment across systems
+- Simplifies deployment, scaling, and teardown
+- Supports container portability and reproducibility
+
+
+FHIR Server Access URLs:
+- Base URL: http://localhost:8080/fhir
+
