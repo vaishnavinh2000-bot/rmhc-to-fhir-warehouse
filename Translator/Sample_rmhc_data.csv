@@ -1,0 +1,5 @@
+# Sample RMHC Data from your source [7]
+rmhc_csv_content = """Last_visit_date,policy_id,Name,Sex,FBS,height,weight
+7/2/2013,AND0010888,THIRAVIDAMANI,F,159,155,83
+31/5/2013,AND0012586,v.manimaran,M,205.6,158,66
+"""
